@@ -1,0 +1,49 @@
+{
+  "env": {
+    "browser": true,
+    "es2020": true
+  },
+  "extends": [
+    "plugin:react/recommended",
+    "google"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 11,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react",
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "space-in-parens": 0,
+    "key-spacing": "off",
+    "no-unused-vars": "off",
+    "trailing-comma": "off",
+    "comma-dangle": "off",
+    "semi": "off",
+    "max-len": [
+      "error",
+      {
+        "code": 300
+      }
+    ],
+    "no-multi-spaces": "off",
+    "padded-blocks": "off",
+    "require-jsdoc": [
+      "off",
+      {
+        "require": {
+          "FunctionDeclaration": true,
+          "ClassDeclaration": true,
+          "MethodDefinition": true,
+          "ArrowFunctionExpression": true
+        }
+      }
+    ]
+  }
+}

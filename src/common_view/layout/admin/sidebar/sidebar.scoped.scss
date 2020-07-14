@@ -1,0 +1,25 @@
+.sidebar {
+  width: 200px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: rgb(0, 21, 41);
+
+  .logo {
+    width: 200px;
+    height: 134px;
+    line-height: 134px;
+    text-align: center;
+    color: #FFF;
+    background: RGBA(255, 255, 255, .1);
+  }
+
+  .menus-list {
+    flex: 1;
+
+    li {
+      color: #FFF;
+      box-sizing: border-box;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "react-app",
+    "@babel/preset-env"
+  ],
+  "plugins": [
+    "babel-plugin-react-scoped-css",
+    ["@babel/plugin-proposal-decorators", { "legacy": true }],
+    ["@babel/plugin-proposal-class-properties", { "loose": true }]
+  ]
+}

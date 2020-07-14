@@ -1,0 +1,7 @@
+{
+  "$schema": "../../../build/schemas/application.schemas.json",
+  "bootstrap": {
+    "appTitle": "mobile站标题",
+    "appTemplate": "mobile"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules
+./src/.main.tsx
+tsconfig.json
+.idea
+dist
+package-lock.json
+.cache

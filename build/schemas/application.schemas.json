@@ -1,0 +1,32 @@
+{
+  "title": "application schema",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "bootstrap": {
+      "description": "当前应用启动时的配置",
+      "type": "object",
+      "properties": {
+        "appTemplate": {
+          "description": "应用使用的index.html模板 -> pc | mobile",
+          "type": "string",
+          "default": "pc",
+          "enum": [
+            "pc",
+            "mobile"
+          ]
+        },
+        "appTitle": {
+          "description": "应用的title",
+          "type": "string"
+        }
+      },
+      "required": [
+        "appTemplate"
+      ]
+    }
+  },
+  "required": [
+    "bootstrap"
+  ]
+}

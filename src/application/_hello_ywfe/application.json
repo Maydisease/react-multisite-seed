@@ -1,0 +1,7 @@
+{
+  "$schema": "../../../build/schemas/application.schemas.json",
+  "bootstrap": {
+    "appTitle": "PC站标题",
+    "appTemplate": "pc"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "SERVER_BASE_API": "http://testcom",
+  "SSO_LOGIN_API": "http://test.com"
+}

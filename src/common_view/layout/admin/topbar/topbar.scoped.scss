@@ -1,0 +1,17 @@
+.topBar {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  background: #eee;
+
+  span {
+    font-size: 14px;
+  }
+
+  .breadcrumb {
+    width: 300px;
+    padding-left: 20px;
+  }
+}

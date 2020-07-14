@@ -1,0 +1,4 @@
+{
+  "SERVER_BASE_API": "http://debug.com",
+  "SSO_LOGIN_API": "http://debug.com"
+}
