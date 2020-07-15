@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9f32ad3-aa41-4394-965f-378d9ea36407" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/config/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/devServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/index.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/interaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/task/client/createClient.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/task/client/createService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/task/client/createTsConfig.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/webpack.client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../build/webpack.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.debug.development.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.debug.production.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.dev.development.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.dev.production.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.release.development.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.release.production.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.test.development.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../env/.test.production.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_a_system/app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_b_system/app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/host/debug.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/host/dev.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/host/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/host/release.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/host/test.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intercept/baseRoute.intercept.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intercept/baseRouteAuth.intercept.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intercept/intercept.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/global.route.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/.route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/goods/add/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/goods/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/goods/list/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/order/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/receipt/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/route.intercept.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/config/host/debug.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/config/host/dev.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/config/host/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/config/host/release.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/config/host/test.host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/intercept/baseRoute.intercept.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/intercept/baseRouteAuth.intercept.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/intercept/intercept.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/middleware/global.route.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/.route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/goods/add/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/goods/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/goods/list/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/order/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/receipt/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/modules/route.intercept.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/pages/state/page404.scoped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/pages/state/page404.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/pages/state/permission.scoped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_hello_ywfe/views/pages/state/permission.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../common_view/layout/admin/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../common_view/layout/admin/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../common_view/layout/admin/sidebar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../common_view/layout/admin/sidebar/sidebar.scoped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../common_view/layout/admin/style.scoped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../common_view/layout/admin/topbar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../common_view/layout/admin/topbar/topbar.scoped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../env/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interface/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interface/route.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../services/decorator/classRoute.decorator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../services/decorator/classRouter.decorator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tsconfig.json_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dist/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dist/app.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../server/build/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helpers/fetchData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pages/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pages/Post.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1eRoETXJSfOMzPhLCXJuuRFH5FZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9f32ad3-aa41-4394-965f-378d9ea36407" name="Default Changelist" comment="" />
+      <created>1594293654733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594293654733</updated>
+      <workItem from="1594293656334" duration="10568000" />
+      <workItem from="1594395001022" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="109" key="CommitChangelistDialog2" timestamp="1594385148985">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="430" y="109" key="CommitChangelistDialog2/-1920.23.1920.1177/0.23.1680.975@0.23.1680.975" timestamp="1594293725285" />
+    <state x="430" y="109" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1594385148985" />
+  </component>
+</project>
